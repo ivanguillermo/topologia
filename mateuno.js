@@ -1,4 +1,4 @@
-const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbw7-YyOKPtnEpcKynE2L1aiQUPSZUTMltZl2CrqBIZQH_VuxL32NYpkwNmPEHeMyzMk/exec";
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbxbMYa4-I71Glbmdi_kPEDgVPIyjHQVKdr7frYK1p4oGerTMZLCs7WVpxZd3z5F0oZtlQ/exec";
 let currentUser = null;
 let selectedAnswerCorrect = null;
 let currentObjective = "1.1";
@@ -71,23 +71,41 @@ const siteContent = {
                         <a href="https://drive.google.com/file/d/1s8ZV983yeUz-hzJSosve1bFx878NtoXe/view?usp=sharing" target="_blank" class="underline"> 📖 TEXTO: CONJUNTOS NUMÉRICOS </a>
                     </p>
                     <ul class="text-sm text-slate-600 list-disc list-inside space-y-1">
-                        <li><strong>Obj. 1.1: Naturales, enteros, racionales y uso de calculadora.</strong></li>
+                        <li><strong>Obj. 1 DISTANCIA</strong></li>
                             <ol>
-                                <li>• Números naturales.</li>
-                                <li>• Números Enteros</li>
-                                <li>• Uso de la calculadora.</li>
-                                <li>• Operaciones con los números Racionales, Orden en Q.</li>
-                                <li>• Ecuaciones con soluciones Racionales.</li>
-                                <li>• Aplicaciones.</li>
+                                <li>• Esferas Abiertas y Esferas Cerradas</li>
+                                <li>• Conjuntos Abiertos y Cerrados</li>
+                                <li>• Punto Interior</li>
+                                <li>• Pto de Acumulacion</li>
+                                <li>• Borde de un conjunto</li>
+                                <li>• Dsitancia entre conjunto</li>
+                                <li>• Conjuntos Densos</li>
+                                <li>• Conjuntos Fronterizos</li>
+                                <li>• Conjuntos nada Densos</li>
+                                
                             </ol>
-                        <li><strong>Obj. 1.2: Números reales y aproximaciones decimales.</strong></li>
+                        <li><strong>Obj. 2 CONJUNTO CONEXO</strong></li>
                             <ol>
                                 <li>• Expresiones periódicas y no periódicas.</li>
                                 <li>• Números Irracionales y Números Reales.</li>
                                 <li>• Operaciones con los Números Reales.</li>
                                 <li>• Aproximaciones Decimales de Números Reales.</li>
                             </ol>
-                        <li><strong>Obj. 1.3: Relación de orden en R, desigualdades y valor absoluto.</strong></li>
+                        <li><strong>Obj. 3 COMPACIDAD</strong></li>
+                            <ol>
+                                <li>• Orden en R. Desigualdades, Ecuaciones e Inecuaciones.</li>
+                                <li>• Valor absoluto de un Número Real. Distancia en R.</li>
+                                <li>• Intervalos en R.</li>
+                                <li>• Aplicaciones</li>
+                            </ol>
+                        <li><strong>Obj. 4 COMPLETITUD</strong></li>
+                            <ol>
+                                <li>• Orden en R. Desigualdades, Ecuaciones e Inecuaciones.</li>
+                                <li>• Valor absoluto de un Número Real. Distancia en R.</li>
+                                <li>• Intervalos en R.</li>
+                                <li>• Aplicaciones</li>
+                            </ol>
+                        <li><strong>Obj. 5 ESPACIOS METRICOS</strong></li>
                             <ol>
                                 <li>• Orden en R. Desigualdades, Ecuaciones e Inecuaciones.</li>
                                 <li>• Valor absoluto de un Número Real. Distancia en R.</li>
