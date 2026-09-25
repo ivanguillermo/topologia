@@ -1,9 +1,9 @@
-const CACHE_NAME = 'mateuna-v1';
+const CACHE_NAME = 'topologia-v1';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
-  './mateuno.js',
-  './mateuno.css',
+  './topologia.js',
+  './topogia.css',
   './preguntas.csv',
   './ejercicios.csv',
   './estudio.html',
